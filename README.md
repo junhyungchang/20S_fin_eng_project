@@ -1,1 +1,1 @@
-Projects mainly done at school, or just for fun.
+Projects mainly done for class, or just for personal interest.
