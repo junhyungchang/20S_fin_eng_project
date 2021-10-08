@@ -1,1 +1,1 @@
-Projects mainly done for class, or just for personal interest.
+Projects mainly done in class.
